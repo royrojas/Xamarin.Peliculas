@@ -1,7 +1,7 @@
 # Xamarin.Peliculas
- Proyecto creado en **Xamarin**, ejemplo que conecta con API de peliculas api.themoviedb.org
+ Proyecto creado en **Xamarin**, ejemplo que conecta con API de películas api.themoviedb.org
 
- Utilizando el API de api.themoviedb.org, gratuito para desarrolladores y test, se tiene acceso a todo el catálogo de películas, actores, género, descripcion, votos, categorías, imágenes, etc.
+ Utilizando el API de api.themoviedb.org, gratuito para desarrolladores y test, se tiene acceso a todo el catálogo de películas, actores, género, descripción, votos, categorías, imágenes, etc.
  
 ### Utiliza
  - VMMV
