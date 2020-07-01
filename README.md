@@ -13,5 +13,6 @@
  - Json
  
 *Proyecto OpenSource*
+*Probado en Android*
 
 Roy Rojas | [royrojas.com](https://www.royrojas.com) | [dotnetcr.com](https://www.dotnetcr.com)
