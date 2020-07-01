@@ -2,8 +2,8 @@
  Proyecto creado en **Xamarin**, ejemplo que conecta con API de peliculas api.themoviedb.org
 
  Utilizando el API de api.themoviedb.org, gratuito para desarrolladores y test, se tiene acceso a todo el catálogo de películas, actores, género, descripcion, votos, categorías, imágenes, etc.
-
-Utiliza
+ 
+### Utiliza
  - VMMV
  - Shell
  - Grid
@@ -12,6 +12,6 @@ Utiliza
  - API
  - Json
  
-__Proyecto OpenSource__
+*Proyecto OpenSource*
 
 Roy Rojas | [royrojas.com](https://www.royrojas.com) | [dotnetcr.com](https://www.dotnetcr.com)
