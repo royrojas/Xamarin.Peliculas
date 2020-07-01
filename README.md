@@ -14,6 +14,4 @@ Utiliza
  
 Proyecto OpenSource
 
-Roy Rojas | royrojas.com | dotnetcr.com
-(https://www.royrojas.com "royrojas")
-
+Roy Rojas | [royrojas.com](https://www.royrojas.com) | [dotnetcr.com](https://www.dotnetcr.com)
